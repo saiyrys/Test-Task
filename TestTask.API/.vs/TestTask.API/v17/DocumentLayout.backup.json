@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\services\\employee\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\interface\\employeeinterface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\interface\\dapperinterface\\idapperdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\dto\\passportsdto\\updatepassportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\dto\\passportsdto\\getpassportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\dto\\passportsdto\\createpassportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\dto\\employeesdto\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\dto\\employeesdto\\getemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\dto\\employeesdto\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\dto\\departmentsdto\\getdepartmentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60490F40-BA36-4CBF-BECC-B93D9B69D818}|TestTask.API.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60490F40-BA36-4CBF-BECC-B93D9B69D818}|TestTask.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60490F40-BA36-4CBF-BECC-B93D9B69D818}|TestTask.API.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60490F40-BA36-4CBF-BECC-B93D9B69D818}|TestTask.API.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60490F40-BA36-4CBF-BECC-B93D9B69D818}|TestTask.API.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60490F40-BA36-4CBF-BECC-B93D9B69D818}|TestTask.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C63167-DA6A-44CE-A0B3-56B7BC0D8DDE}|..\\TestTask.Domain\\TestTask.Domain.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.domain\\models\\passports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DA2C8D-9989-4668-BA0F-238271A38FB6}|..\\TestTask.UnitTests\\TestTask.UnitTests.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.unittests\\1. addemployees\\addemployeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DA2C8D-9989-4668-BA0F-238271A38FB6}|..\\TestTask.UnitTests\\TestTask.UnitTests.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.unittests\\2. deleteemployees\\deleteemployeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DA2C8D-9989-4668-BA0F-238271A38FB6}|..\\TestTask.UnitTests\\TestTask.UnitTests.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.unittests\\3 and 4. getemployeewithdifferentfilters\\getemployeewithfilterstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C63167-DA6A-44CE-A0B3-56B7BC0D8DDE}|..\\TestTask.Domain\\TestTask.Domain.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.domain\\models\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C63167-DA6A-44CE-A0B3-56B7BC0D8DDE}|..\\TestTask.Domain\\TestTask.Domain.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.domain\\irepository\\employee\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C63167-DA6A-44CE-A0B3-56B7BC0D8DDE}|..\\TestTask.Domain\\TestTask.Domain.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.domain\\irepository\\company\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D848F4-FA20-4C51-8BF6-30E0C6BCECBF}|..\\TestTask.Infrastructure\\TestTask.Infrastructure.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.infrastructure\\repositories\\employee\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D848F4-FA20-4C51-8BF6-30E0C6BCECBF}|..\\TestTask.Infrastructure\\TestTask.Infrastructure.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.infrastructure\\repositories\\company\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D848F4-FA20-4C51-8BF6-30E0C6BCECBF}|..\\TestTask.Infrastructure\\TestTask.Infrastructure.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.infrastructure\\data\\dapperdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C63167-DA6A-44CE-A0B3-56B7BC0D8DDE}|..\\TestTask.Domain\\TestTask.Domain.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.domain\\models\\companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C63167-DA6A-44CE-A0B3-56B7BC0D8DDE}|..\\TestTask.Domain\\TestTask.Domain.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.domain\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C63167-DA6A-44CE-A0B3-56B7BC0D8DDE}|..\\TestTask.Domain\\TestTask.Domain.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.domain\\models\\employeefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C63167-DA6A-44CE-A0B3-56B7BC0D8DDE}|..\\TestTask.Domain\\TestTask.Domain.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.domain\\testtask.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\testtask.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D848F4-FA20-4C51-8BF6-30E0C6BCECBF}|..\\TestTask.Infrastructure\\TestTask.Infrastructure.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.infrastructure\\testtask.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\EmployeesDto\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\Dto\\EmployeesDto\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\EmployeesDto\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "..\\TestTask.Application\\Dto\\EmployeesDto\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:19:00.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:53:14.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Services\\Employee\\EmployeesService.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\Services\\Employee\\EmployeesService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Services\\Employee\\EmployeesService.cs",
+              "RelativeToolTip": "..\\TestTask.Application\\Services\\Employee\\EmployeesService.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAIwKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:58:37.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:14:22.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T16:55:53.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetDepartmentsDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\DepartmentsDto\\GetDepartmentsDto.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\Dto\\DepartmentsDto\\GetDepartmentsDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\DepartmentsDto\\GetDepartmentsDto.cs",
+              "RelativeToolTip": "..\\TestTask.Application\\Dto\\DepartmentsDto\\GetDepartmentsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:42:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\EmployeesDto\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\Dto\\EmployeesDto\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\EmployeesDto\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "..\\TestTask.Application\\Dto\\EmployeesDto\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:00:48.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\EmployeesDto\\GetEmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\Dto\\EmployeesDto\\GetEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\EmployeesDto\\GetEmployeeDto.cs",
+              "RelativeToolTip": "..\\TestTask.Application\\Dto\\EmployeesDto\\GetEmployeeDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:54:16.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatePassportDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\PassportsDto\\CreatePassportDto.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\Dto\\PassportsDto\\CreatePassportDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\PassportsDto\\CreatePassportDto.cs",
+              "RelativeToolTip": "..\\TestTask.Application\\Dto\\PassportsDto\\CreatePassportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:46:35.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetPassportDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\PassportsDto\\GetPassportDto.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\Dto\\PassportsDto\\GetPassportDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\PassportsDto\\GetPassportDto.cs",
+              "RelativeToolTip": "..\\TestTask.Application\\Dto\\PassportsDto\\GetPassportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:41:43.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdatePassportDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\PassportsDto\\UpdatePassportDto.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\Dto\\PassportsDto\\UpdatePassportDto.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Dto\\PassportsDto\\UpdatePassportDto.cs",
+              "RelativeToolTip": "..\\TestTask.Application\\Dto\\PassportsDto\\UpdatePassportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:43:48.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDapperDbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Interface\\DapperInterface\\IDapperDbConnection.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\Interface\\DapperInterface\\IDapperDbConnection.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Interface\\DapperInterface\\IDapperDbConnection.cs",
+              "RelativeToolTip": "..\\TestTask.Application\\Interface\\DapperInterface\\IDapperDbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:33:18.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Interface\\EmployeeInterface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\Interface\\EmployeeInterface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Interface\\EmployeeInterface\\IEmployeeService.cs",
+              "RelativeToolTip": "..\\TestTask.Application\\Interface\\EmployeeInterface\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:51:29.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Passports.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Passports.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Domain\\Models\\Passports.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Passports.cs",
+              "RelativeToolTip": "..\\TestTask.Domain\\Models\\Passports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:56:45.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteEmployeeTest.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.UnitTests\\2. DeleteEmployees\\DeleteEmployeeTest.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.UnitTests\\2. DeleteEmployees\\DeleteEmployeeTest.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.UnitTests\\2. DeleteEmployees\\DeleteEmployeeTest.cs",
+              "RelativeToolTip": "..\\TestTask.UnitTests\\2. DeleteEmployees\\DeleteEmployeeTest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:38:41.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Infrastructure\\Repositories\\Company\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Infrastructure\\Repositories\\Company\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Infrastructure\\Repositories\\Company\\CompanyRepository.cs",
+              "RelativeToolTip": "..\\TestTask.Infrastructure\\Repositories\\Company\\CompanyRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:15:30.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\IRepository\\Company\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Domain\\IRepository\\Company\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\IRepository\\Company\\ICompanyRepository.cs",
+              "RelativeToolTip": "..\\TestTask.Domain\\IRepository\\Company\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:14:34.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEmployeeTest.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.UnitTests\\1. AddEmployees\\AddEmployeeTest.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.UnitTests\\1. AddEmployees\\AddEmployeeTest.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.UnitTests\\1. AddEmployees\\AddEmployeeTest.cs",
+              "RelativeToolTip": "..\\TestTask.UnitTests\\1. AddEmployees\\AddEmployeeTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:25:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Infrastructure\\Repositories\\Employee\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Infrastructure\\Repositories\\Employee\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Infrastructure\\Repositories\\Employee\\EmployeeRepository.cs",
+              "RelativeToolTip": "..\\TestTask.Infrastructure\\Repositories\\Employee\\EmployeeRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:03:41.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Companies.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Companies.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Domain\\Models\\Companies.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Companies.cs",
+              "RelativeToolTip": "..\\TestTask.Domain\\Models\\Companies.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:52:34.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\IRepository\\Employee\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Domain\\IRepository\\Employee\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\IRepository\\Employee\\IEmployeeRepository.cs",
+              "RelativeToolTip": "..\\TestTask.Domain\\IRepository\\Employee\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:05:23.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetEmployeeWithFiltersTest.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.UnitTests\\3 and 4. GetEmployeeWithDifferentFilters\\GetEmployeeWithFiltersTest.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.UnitTests\\3 and 4. GetEmployeeWithDifferentFilters\\GetEmployeeWithFiltersTest.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.UnitTests\\3 and 4. GetEmployeeWithDifferentFilters\\GetEmployeeWithFiltersTest.cs",
+              "RelativeToolTip": "..\\TestTask.UnitTests\\3 and 4. GetEmployeeWithDifferentFilters\\GetEmployeeWithFiltersTest.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwEYAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:47:54.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Departments.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Domain\\Models\\Departments.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Departments.cs",
+              "RelativeToolTip": "..\\TestTask.Domain\\Models\\Departments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:47:29.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DapperDbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Infrastructure\\Data\\DapperDbConnection.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Infrastructure\\Data\\DapperDbConnection.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Infrastructure\\Data\\DapperDbConnection.cs",
+              "RelativeToolTip": "..\\TestTask.Infrastructure\\Data\\DapperDbConnection.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:12:36.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TestTask.Domain",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\TestTask.Domain\\TestTask.Domain.csproj",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\TestTask.Domain.csproj",
+              "RelativeToolTip": "..\\TestTask.Domain\\TestTask.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T17:10:15.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Domain\\Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Employees.cs",
+              "RelativeToolTip": "..\\TestTask.Domain\\Models\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:52:07.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeFilter.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\EmployeeFilter.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Domain\\Models\\EmployeeFilter.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\EmployeeFilter.cs",
+              "RelativeToolTip": "..\\TestTask.Domain\\Models\\EmployeeFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:38:43.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TestTask.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Infrastructure\\TestTask.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\TestTask.Infrastructure\\TestTask.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Infrastructure\\TestTask.Infrastructure.csproj",
+              "RelativeToolTip": "..\\TestTask.Infrastructure\\TestTask.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T16:11:23.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TestTask.Application",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\TestTask.Application.csproj",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\TestTask.Application.csproj",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\TestTask.Application.csproj",
+              "RelativeToolTip": "..\\TestTask.Application\\TestTask.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T14:50:32.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

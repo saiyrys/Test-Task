@@ -1,0 +1,16 @@
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.deps.json
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.dll
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Application.pdb
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Domain.dll
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\bin\Debug\net8.0\TestTask.Domain.pdb
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.AssemblyInfo.cs
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.sourcelink.json
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.52EE827F.Up2Date
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.dll
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\refint\TestTask.Application.dll
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.pdb
+C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\ref\TestTask.Application.dll

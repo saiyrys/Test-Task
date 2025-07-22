@@ -1,0 +1,12 @@
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\bin\Debug\net8.0\TestTask.Domain.deps.json
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\bin\Debug\net8.0\TestTask.Domain.dll
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\bin\Debug\net8.0\TestTask.Domain.pdb
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\obj\Debug\net8.0\TestTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\obj\Debug\net8.0\TestTask.Domain.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\obj\Debug\net8.0\TestTask.Domain.AssemblyInfo.cs
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\obj\Debug\net8.0\TestTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\obj\Debug\net8.0\TestTask.Domain.sourcelink.json
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\obj\Debug\net8.0\TestTask.Domain.dll
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\obj\Debug\net8.0\refint\TestTask.Domain.dll
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\obj\Debug\net8.0\TestTask.Domain.pdb
+C:\Users\Павел\Desktop\TestTask\TestTask.Domain\obj\Debug\net8.0\ref\TestTask.Domain.dll
