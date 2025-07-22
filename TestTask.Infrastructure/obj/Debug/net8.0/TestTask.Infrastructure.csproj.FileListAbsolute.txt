@@ -10,7 +10,6 @@ C:\Users\Павел\Desktop\TestTask\TestTask.Infrastructure\obj\Debug\net8.0\Te
 C:\Users\Павел\Desktop\TestTask\TestTask.Infrastructure\obj\Debug\net8.0\TestTask.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Павел\Desktop\TestTask\TestTask.Infrastructure\obj\Debug\net8.0\TestTask.Infrastructure.AssemblyInfo.cs
 C:\Users\Павел\Desktop\TestTask\TestTask.Infrastructure\obj\Debug\net8.0\TestTask.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\Павел\Desktop\TestTask\TestTask.Infrastructure\obj\Debug\net8.0\TestTask.Infrastructure.sourcelink.json
 C:\Users\Павел\Desktop\TestTask\TestTask.Infrastructure\obj\Debug\net8.0\TestTask.11CE90CA.Up2Date
 C:\Users\Павел\Desktop\TestTask\TestTask.Infrastructure\obj\Debug\net8.0\TestTask.Infrastructure.dll
 C:\Users\Павел\Desktop\TestTask\TestTask.Infrastructure\obj\Debug\net8.0\refint\TestTask.Infrastructure.dll

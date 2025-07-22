@@ -6,16 +6,11 @@ C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\TestTask.API.
 C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\TestTask.API.runtimeconfig.json
 C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\TestTask.API.dll
 C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\TestTask.API.pdb
-C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Dapper.dll
 C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Npgsql.dll
 C:\Users\Павел\Desktop\TestTask\TestTask.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -35,7 +30,6 @@ C:\Users\Павел\Desktop\TestTask\TestTask.API\obj\Debug\net8.0\TestTask.API.
 C:\Users\Павел\Desktop\TestTask\TestTask.API\obj\Debug\net8.0\TestTask.API.csproj.CoreCompileInputs.cache
 C:\Users\Павел\Desktop\TestTask\TestTask.API\obj\Debug\net8.0\TestTask.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Павел\Desktop\TestTask\TestTask.API\obj\Debug\net8.0\TestTask.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Павел\Desktop\TestTask\TestTask.API\obj\Debug\net8.0\TestTask.API.sourcelink.json
 C:\Users\Павел\Desktop\TestTask\TestTask.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Павел\Desktop\TestTask\TestTask.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Павел\Desktop\TestTask\TestTask.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

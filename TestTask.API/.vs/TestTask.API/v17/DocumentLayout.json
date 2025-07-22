@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02764424-66F4-40D4-B249-EEB331907DAE}|..\\TestTask.Application\\TestTask.Application.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.application\\services\\employee\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2DA2C8D-9989-4668-BA0F-238271A38FB6}|..\\TestTask.UnitTests\\TestTask.UnitTests.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\testtask\\testtask.unittests\\1. addemployees\\addemployeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,6 +57,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmployeesService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Services\\Employee\\EmployeesService.cs",
+              "RelativeDocumentMoniker": "..\\TestTask.Application\\Services\\Employee\\EmployeesService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Application\\Services\\Employee\\EmployeesService.cs*",
+              "RelativeToolTip": "..\\TestTask.Application\\Services\\Employee\\EmployeesService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:12:16.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AddEmployeeTest.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.UnitTests\\1. AddEmployees\\AddEmployeeTest.cs",
               "RelativeDocumentMoniker": "..\\TestTask.UnitTests\\1. AddEmployees\\AddEmployeeTest.cs",
@@ -66,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DeleteEmployeeTest.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.UnitTests\\2. DeleteEmployees\\DeleteEmployeeTest.cs",
               "RelativeDocumentMoniker": "..\\TestTask.UnitTests\\2. DeleteEmployees\\DeleteEmployeeTest.cs",
@@ -79,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GetEmployeeWithFiltersTest.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.UnitTests\\3 and 4. GetEmployeeWithDifferentFilters\\GetEmployeeWithFiltersTest.cs",
               "RelativeDocumentMoniker": "..\\TestTask.UnitTests\\3 and 4. GetEmployeeWithDifferentFilters\\GetEmployeeWithFiltersTest.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Infrastructure\\Repositories\\Employee\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "..\\TestTask.Infrastructure\\Repositories\\Employee\\EmployeeRepository.cs",
@@ -105,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CompanyRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Infrastructure\\Repositories\\Company\\CompanyRepository.cs",
               "RelativeDocumentMoniker": "..\\TestTask.Infrastructure\\Repositories\\Company\\CompanyRepository.cs",
@@ -118,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DapperDbConnection.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Infrastructure\\Data\\DapperDbConnection.cs",
               "RelativeDocumentMoniker": "..\\TestTask.Infrastructure\\Data\\DapperDbConnection.cs",
@@ -131,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Passports.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Passports.cs",
               "RelativeDocumentMoniker": "..\\TestTask.Domain\\Models\\Passports.cs",
@@ -144,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Employees.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Employees.cs",
               "RelativeDocumentMoniker": "..\\TestTask.Domain\\Models\\Employees.cs",
@@ -157,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EmployeeFilter.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\EmployeeFilter.cs",
               "RelativeDocumentMoniker": "..\\TestTask.Domain\\Models\\EmployeeFilter.cs",
@@ -170,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Departments.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Departments.cs",
               "RelativeDocumentMoniker": "..\\TestTask.Domain\\Models\\Departments.cs",
@@ -183,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Companies.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\Models\\Companies.cs",
               "RelativeDocumentMoniker": "..\\TestTask.Domain\\Models\\Companies.cs",
@@ -196,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\IRepository\\Employee\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "..\\TestTask.Domain\\IRepository\\Employee\\IEmployeeRepository.cs",
@@ -209,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ICompanyRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\TestTask\\TestTask.Domain\\IRepository\\Company\\ICompanyRepository.cs",
               "RelativeDocumentMoniker": "..\\TestTask.Domain\\IRepository\\Company\\ICompanyRepository.cs",

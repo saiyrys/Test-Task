@@ -8,7 +8,6 @@ C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestT
 C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.AssemblyInfoInputs.cache
 C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.AssemblyInfo.cs
 C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.csproj.CoreCompileInputs.cache
-C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.sourcelink.json
 C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.52EE827F.Up2Date
 C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\TestTask.Application.dll
 C:\Users\Павел\Desktop\TestTask\TestTask.Application\obj\Debug\net8.0\refint\TestTask.Application.dll
